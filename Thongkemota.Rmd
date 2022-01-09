@@ -1,0 +1,179 @@
+---
+title: "Thống kê mô tả"
+author: "Sử Thành Công"
+date: "1/9/2022"
+output:
+  html_document: default
+  word_document: default
+---
+
+```{r package, warning=FALSE, include=FALSE}
+library(tidyr)
+library(tidyverse)
+library(dplyr)
+library(utils)
+library(ggplot2)
+library(plotly)
+library(GGally)
+library(forcats)
+```
+# Tổng quan về dữ liệu
+1. **Nguồn dữ liệu về laptop thu thập được từ 3 trang web:**
+    + https://fptshop.com.vn/
+    + https://www.dienmayxanh.com/
+    + https://phongvu.vn/
+    
+2. **Có 17 trường dữ liệu:**
+    + **id**: ID laptop
+    + **brand**: Thương hiệu của laptop
+    + **cpu**: Bộ xử lý trung tâm. 
+    >CPU đóng vai trò như não bộ của một chiếc Laptop, tại đó mọi thông tin, thao tác, dữ liệu sẽ được tính toán kỹ lưỡng và đưa ra lệnh điều khiển mọi hoạt động của Laptop.
+    + **cpu_GHz**: Tốc độ xử lý CPU hay tần số tính toán và làm việc của nó được đo bằng đơn vị GHz hoặc MHz
+    > Nếu cùng một dòng chip ví dụ như Core i3 thì xung nhịp cao hơn đồng nghĩa với tốc độ xử lý nhanh hơn, khả năng làm việc tốt hơn. Tuy nhiên, nếu giữa 2 dòng chip khác nhau như Core i3 hai nhân xung nhịp 2.2GHz và Intel Pentium Dual core 2.3GHz thì không thể so sánh ngay được bởi vì tốc độ xử lý của Laptop còn phụ thuộc rất nhiều yếu tố khác
+    + **cpu_brand**: Hãng sản xuất CPU
+    + **ram**: Bộ nhớ tạm (đơn vị GB)
+    > RAM là bộ nhớ tạm của máy giúp lưu trữ thông tin hiện hành để CPU có thể truy xuất và xử lý.
+    + **scrsize**: Kích thước màn hình laptop (đơn vị inch)
+    + **gpu**: đơn vị xử lý đồ họa chuyên dụng, nhiệm vụ chính là tăng tốc, xử lý đồ họa cho bộ xử lý của CPU
+    > Ngoài tác vụ đồ họa, GPU còn xử lý thông tin đa luồng, song song và bộ nhớ ở tốc độ cao.
+    + **gpu_brand**: Hãng sản xuất GPU
+    + **memory**: Dung lượng lưu trữ (đơn vị GB)
+    + **drive_type**: Loại ổ đĩa
+    + **opersystem**: Hệ điều hành
+    + **since**: Năm sản xuất
+    + **shop**: Cửa hàng phân phối
+    + **price**: Giá sản phẩm
+    + **url**: Đường dẫn đến sản phẩm
+```{r}
+df <- read.csv("laptop_clean.csv")
+sample_n(df, 5)
+```
+```{r}
+print(nrow(df))
+print(ncol(df))
+```
+```{r}
+names(df)
+```
+```{r}
+str(df)
+```
+---
+# II. Phân tích biến định tính (Categorical)
+- **Các biến định tính bao gồm:**
+```{r echo=FALSE}
+categorical<-df[, c('brand','cpu', 'cpu_brand', 'gpu', 'gpu_brand', 'drive_type', 'opersystem','shop')]
+head(categorical,5)
+
+v <- names(categorical)
+for ( i in v) {
+    a<-as.list(unique(categorical[i]))
+    print(a)
+}
+```
+- Đối với biến **drive_type** chỉ có duy nhất 1 giá trị: SDD
+- Xét biến **opersystem (hệ điều hành)** gồm 2 giá trị:
+    + Mac OS: Hệ điều hành dành riêng cho máy tính của Apple (macbook) 
+    + Còn laptop của các hãng còn lại sử dụng hệ điều hành Window
+**Kết luận: 2 biến này hoàn toàn không ảnh hưởng đến giá cả, vì toàn bộ ổ đĩa của các sản phẩm trong dataset đều là SDD và hệ điều hành phụ thuộc vào thương hiệu của laptop (brand)**
+---
+## 1. Thương hiệu máy tính (brand):
+```{r echo=FALSE}
+brand<-table(df['brand'])
+brand<-as.data.frame(brand)
+brand$Percent = brand$Freq*100 / sum(brand$Freq)
+brand <- arrange(brand,desc(Freq))
+brand
+
+#BarChart
+fig <- plot_ly(brand,y=~Var1, x =~Freq,
+  type = "bar", text =brand$Freq, textposition = 'auto'
+)
+fig <- fig %>% layout(title='Which brand is the most frequent?',yaxis = list(title = 'Brand'))
+fig
+
+# PieChart
+pie <- brand %>%
+  plot_ly(labels = ~ Var1, values = ~ Percent, type = 'pie',
+          textposition = 'inside',
+          textinfo = 'label+percent',
+          insidetextfont = list(color = 'white'),
+          hoverinfo = 'text',
+          text = ~paste(Freq, 'products'),
+          marker = list(line = list(color = 'white', width = 2)),
+          showlegend = TRUE)
+
+pie <- pie %>% 
+  layout(title = "What's the percentage each brand?",
+         xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+         yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE))
+
+ggplotly(pie)
+```
+ ___
+ + **Trong bộ dữ liệu thu thập được, có 10 thương hiệu Laptop**
+ + **Các hãng laptop phổ biến:**
+    - ASUS: 23.4% *(Phổ biến nhất)*
+    - DELL: 19.0%
+    - MSI: 16.5%
+    - ACER: 15.4%
+    - LENOVO: 8.8%
++ **Hãng ít phổ biến:** 
+    - FUJITSU (1 sản phẩm)
+    - MICROSOFT (3 sản phẩm)
+```{r echo=FALSE, warning=FALSE}
+# Boxplot
+fig <- plot_ly(df, y = ~price, color=~brand ,type = "box")
+fig <- fig %>% layout(title='Laptop Price by Brand')
+fig
+```
+---
++ Đa số các hãng sẽ có khoảng giá trung bình 20-30tr đồng.
++ Tuy các thương hiệu đều có khoảng giá tương đối gần nhau, nhưng một số trong chúng có giá trị cao bất thường (sản phẩm cao cấp so với các sản phẩm còn lại), chẳng hạn như ASUS hoặc MSI:
+    - [ASUS: khoảng 77tr đồng](https://phongvu.vn/may-tinh-xach-tay-laptop-asus-rog-flow-gv301qc-k6029t-amd-ryzen-9-5980hs-den-s210902962.html?sku=210902962)
+    - [MSI: khoảng 75.2tr đồng](https://www.dienmayxanh.com/laptop/msi-gaming-ge66-raider-11uh-i7-259vn?src=osp) 
++ Sản phẩm của LG có giá trung bình cao nhất - Khoảng 49 triệu đồng, nhưng số lượng máy tính của công ty này (chỉ 8 chiếc).
++ Sản phẩm MACBOOK của APPLE có giá trung bình cao hơn mặt bằng chung (khoảng 35tr đồng) đồng thời khoảng giá sản phẩm tương đối hẹp (từ 25-50tr) bởi vì đây là dòng sản phẩm cao cấp, hướng đến tệp khách hàng đắt tiền.
++ DELL là một trong những hãng phổ biến nhưng sản phẩm của DELL có giá trung bình tương đối thấp hơn so với các hãng khác (khoảng 20tr đồng) vì các máy tính của Dell chủ yếu phục vụ cho học tập và công việc.
++ MSI là hãng chuyên cung cấp dòng sản phẩm laptop GAMING nên giá của hầu hết sản phẩm sẽ tương đối cao hơn so với mặt bằng chung
+**Kết luận: Thương hiệu dường như có thể ảnh hưởng đến giá thành sản phẩm. Đồng thời thương hiệu cũng là điều mà nhiều người quan tâm gửi gắm niềm tin khi lựa chọn laptop.**
+
+---
+## 2. Bộ xử lý (CPU):
+```{r}
+head(df[ , c('cpu', 'cpu_GHz', 'cpu_brand','price')],5)
+```
+### CPU brand
+```{r echo=FALSE}
+cpu_brand<-table(df['cpu_brand'])
+cpu_brand<-as.data.frame(cpu_brand)
+cpu_brand$Percent = cpu_brand$Freq*100 / sum(cpu_brand$Freq)
+cpu_brand <- arrange(cpu_brand,desc(Freq))
+cpu_brand
+
+#BarChart
+fig2 <- plot_ly(cpu_brand,y=~Var1, x =~Freq,
+  tpe = "bar", text =cpu_brand$Freq, textposition = 'auto'
+)
+fig2 <- fig2 %>% layout(title='Which CPU brand is the most frequent?',yaxis = list(title = 'CPY brand'))
+fig2
+
+# PieChart
+pie2 <- cpu_brand %>%
+  plot_ly(labels = ~ Var1, values = ~ Percent, type = 'pie',
+          textposition = 'inside',
+          textinfo = 'label+percent',
+          insidetextfont = list(color = 'white'),
+          hoverinfo = 'text',
+          text = ~paste(Freq, 'products'),
+          marker = list(line = list(color = 'white', width = 2)),
+          showlegend = TRUE)
+
+pie2 <- pie2 %>% 
+  layout(title = "What's the percentage of each CPU brand?",
+         xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+         yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE))
+
+ggplotly(pie2)
+```
+

@@ -1,0 +1,16 @@
+
+**Trang danh mục sản phẩm**
+link = //*[@class="cdt-product__info"]/h3/a
+
+**Trang thông tin sản phẩm:**
+name = //*[@class="st-name"]
+price = //*[@class="st-price-main"]
+brand = //*[@id="root"]/main/div/div[1]/div[1]/div/ol/li[3]/a
+Core = //*[@class="st-pd-table"]/tbody/tr[1]/td[2]/span
+RAM = //*[@class="st-pd-table"]/tbody/tr[2]/td[2]/span
+ScrSize = //*[@class="st-pd-table"]/tbody/tr[3]/td[2]/span
+GraphicCard = //*[@class="st-pd-table"]/tbody/tr[4]/td[2]/span
+Capacity = //*[@class="st-pd-table"]/tbody/tr[5]/td[2]/span
+Weight = //*[@class="st-pd-table"]/tbody/tr[7]/td[2]/span
+Madein = //*[@class="st-pd-table"]/tbody/tr[9]/td[2]/span
+Since = //*[@class="st-pd-table"]/tbody/tr[10]/td[2]/span

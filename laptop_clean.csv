@@ -1,0 +1,274 @@
+id,brand,cpu,cpu_GHz,cpu_brand,ram,scrsize,gpu,gpu_brand,memory,drive_type,opersystem,weight,since,shop,price,url
+0,ACER,Intel i7,4.6,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.2,2021,FPTShop,29999000,https://fptshop.com.vn/may-tinh-xach-tay/acer-nitro-gaming-an515-57-74nu-i7-11800h
+1,MSI,Intel i5,4.5,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.3,2021,FPTShop,18799000,https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-14-b11mou-852vn-i5-1155g7
+2,DELL,Intel i3,4.1,Intel,4,15.6,Intel UHD,Intel,256,SDD,Window,1.7,2021,FPTShop,15299000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n3511-i3-1115g4
+3,DELL,Intel i3,4.1,Intel,8,15.6,Intel UHD,Intel,256,SDD,Window,2.0,2021,FPTShop,15599000,https://fptshop.com.vn/may-tinh-xach-tay/dell-vostro-v3500-i3-1115g4
+4,DELL,Intel i5,4.2,Intel,4,15.6,Intel Iris,Intel,512,SDD,Window,1.7,2021,FPTShop,19999000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n3511-i5-1135g7
+5,MSI,Intel i7,5.0,Intel,8,15.6,NVIDIA GeForce GTX,NVIDIA,512,SDD,Window,1.9,2021,FPTShop,22999000,https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-gf63-thin-10sc-481vn-i7-10750h
+6,DELL,AMD Ryzen 5,4.0,AMD,8,15.6,AMD Radeon,AMD,256,SDD,Window,1.8,2021,FPTShop,18999000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n5515-r5-5500u
+7,LENOVO,AMD Ryzen 7,4.3,AMD,8,14.0,AMD Radeon,AMD,512,SDD,Window,1.4,2021,FPTShop,21499000,https://fptshop.com.vn/may-tinh-xach-tay/lenovo-thinkbook-14-g3-acl-r7-5700u
+8,DELL,Intel i5,4.2,Intel,8,14.0,Intel UHD,Intel,256,SDD,Window,1.9,2020,FPTShop,18899000,https://fptshop.com.vn/may-tinh-xach-tay/dell-vostro-v3400-i5-1135g7-win-10
+9,ASUS,Intel i5,4.2,Intel,8,15.6,Intel Iris,Intel,512,SDD,Window,1.8,2021,FPTShop,19999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-a515ea-l11970t-i5-1135g7
+10,ACER,Intel i5,4.5,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.2,2021,FPTShop,27499000,https://fptshop.com.vn/may-tinh-xach-tay/acer-nitro-gaming-an515-57-57mx-i5-11400h
+11,MSI,Intel i7,4.6,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.1,2021,FPTShop,30999000,https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-gf66-11ud-697vn-i7-11800h
+12,DELL,Intel Celeron,2.8,Intel,4,15.6,Intel UHD,Intel,128,SDD,Window,1.8,2020,FPTShop,10999000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n3502-celeron-n4020-win-10-nk
+13,DELL,AMD Ryzen 5,3.5,AMD,8,15.6,AMD Radeon,AMD,256,SDD,Window,2.0,2020,FPTShop,17999000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n3505-r5-3450u-win-10-nk
+14,DELL,Intel Celeron,2.8,Intel,4,15.6,Intel UHD,Intel,128,SDD,Window,1.7,2021,FPTShop,10999000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n3510-celeron-n4020-win-10-nk
+15,DELL,Intel Pentium,3.1,Intel,4,15.6,Intel UHD,Intel,128,SDD,Window,1.7,2021,FPTShop,11699000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n3510-pentium-n5030-win-10-nk
+16,MSI,Intel i5,4.5,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,1.9,2021,FPTShop,29699000,https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-gf65-10ue-286vn-i5-10500h
+17,ACER,Intel i5,4.5,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.2,2021,FPTShop,26499000,https://fptshop.com.vn/may-tinh-xach-tay/acer-nitro-gaming-an515-57-54mv-i5-11400h
+18,HP,Intel i7,4.7,Intel,8,13.3,Intel Iris,Intel,512,SDD,Window,1.2,2021,FPTShop,29899000,https://fptshop.com.vn/may-tinh-xach-tay/hp-envy-13-ba1535tu-i7-1165g7
+19,MSI,Intel i7,4.6,Intel,8,17.3,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.6,2021,FPTShop,30299000,https://fptshop.com.vn/may-tinh-xach-tay/msi-katana-gf76-11uc-096vn-i7-11800h
+20,LENOVO,Intel i5,4.2,Intel,8,15.6,Intel Iris,Intel,512,SDD,Window,1.7,2021,FPTShop,17999000,https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-15itl6-i5-1135g7
+21,LENOVO,Intel i5,4.2,Intel,16,14.0,Intel Iris,Intel,512,SDD,Window,1.4,2021,FPTShop,25199000,https://fptshop.com.vn/may-tinh-xach-tay/lenovo-yoga-slim-7-14itl05-i5-1135g7
+22,ACER,AMD Ryzen 5,4.0,AMD,8,15.6,NVIDIA GeForce GTX,NVIDIA,256,SDD,Window,2.1,2021,FPTShop,19999000,https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-gaming-a715-42g-r4st-r5-5500u
+23,DELL,Intel i3,4.1,Intel,4,15.6,Intel UHD,Intel,256,SDD,Window,2.0,2021,FPTShop,14999000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n3501c-i3-1115g4
+24,HP,Intel i3,3.7,Intel,4,15.6,Intel UHD,Intel,512,SDD,Window,1.7,2021,FPTShop,15999000,https://fptshop.com.vn/may-tinh-xach-tay/hp-pavilion-15-eg0509tu-i3-1125g4
+25,DELL,AMD Ryzen 5,3.7,AMD,4,14.0,AMD Radeon,AMD,256,SDD,Window,1.7,2020,FPTShop,16499000,https://fptshop.com.vn/may-tinh-xach-tay/dell-vostro-v3405-r5-3500u-256gb
+26,DELL,Intel i3,4.1,Intel,8,14.0,Intel UHD,Intel,256,SDD,Window,1.6,2020,FPTShop,15899000,https://fptshop.com.vn/may-tinh-xach-tay/dell-vostro-v3400-i3-1115g4-win10
+27,DELL,Intel i5,4.2,Intel,4,15.6,Intel Iris,Intel,512,SDD,Window,2.0,2021,FPTShop,18999000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n3501b-i5-1135g7
+28,ACER,Intel i7,4.6,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.3,2021,FPTShop,39999000,https://fptshop.com.vn/may-tinh-xach-tay/acer-predator-helios-gaming-ph315-54-75yd-i7-11800h
+29,DELL,Intel i5,4.4,Intel,8,15.6,Intel Iris,Intel,256,SDD,Window,1.7,2021,FPTShop,22999000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n5510-i5-11300h
+30,LENOVO,Intel i7,4.8,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.3,2021,FPTShop,28999000,https://fptshop.com.vn/may-tinh-xach-tay/lenovo-gaming-3-15ihu6-i7-11370h-rtx3050-4gb
+31,MSI,Intel i7,4.8,Intel,16,14.0,Intel Iris,Intel,512,SDD,Window,1.3,2020,FPTShop,29999000,https://fptshop.com.vn/may-tinh-xach-tay/msi-prestige-14evo-a11m-089vn-i7-1185g7
+32,MSI,Intel i7,4.6,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.1,2021,FPTShop,29999000,https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-gf66-11uc-641vn-i7-11800h-rtx3050
+33,MSI,AMD Ryzen 7,4.4,AMD,16,15.6,AMD Radeon,AMD,512,SDD,Window,2.4,2021,FPTShop,36999000,https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-alpha-15-b5eek-036vn-r7-5800h
+34,MSI,Intel i7,4.6,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.3,2021,FPTShop,33999000,https://fptshop.com.vn/may-tinh-xach-tay/msi-pulse-gl66-11udk-255vn-i7-11800h
+35,MSI,Intel i7,4.8,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,1.7,2021,FPTShop,41999000,https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-stealth-15m-a11uek-232vn-i7-11375h
+36,ASUS,Intel i7,4.8,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.0,2021,FPTShop,32999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-tuf-gaming-fx516pm-hn002t-i7-11370h
+37,ASUS,AMD Ryzen 5,4.0,AMD,8,15.6,AMD Radeon,AMD,512,SDD,Window,1.8,2021,FPTShop,18999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-m513ua-l1230t-r5-5500u
+38,MSI,Intel i7,4.8,Intel,16,13.4,Intel Iris,Intel,1000,SDD,Window,1.4,2021,FPTShop,39999000,https://fptshop.com.vn/may-tinh-xach-tay/msi-summit-e13-flip-evo-a11mt-i7-1185g7
+39,MSI,Intel i7,4.8,Intel,16,15.6,NVIDIA GeForce GTX,NVIDIA,512,SDD,Window,1.7,2021,FPTShop,34999000,https://fptshop.com.vn/may-tinh-xach-tay/msi-prestige-15-a11sc-037vn-i7-1185g7
+40,ASUS,AMD Ryzen 9,4.6,AMD,16,13.4,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,1.3,2021,FPTShop,39999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-flow-gaming-gv301qc-k6052t-r9-5900hs
+41,ASUS,AMD Ryzen 7,4.2,AMD,8,14.0,NVIDIA GeForce GTX,NVIDIA,512,SDD,Window,1.6,2021,FPTShop,27999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-gaming-zephyrus-ga401ihr-hz009t-r7-4800hs
+42,ACER,Intel i7,4.6,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.0,2021,FPTShop,44990000,https://fptshop.com.vn/may-tinh-xach-tay/acer-triton-gaming-pt315-53-75lq-i7-11800h
+43,ASUS,Intel i3,4.1,Intel,4,15.6,Intel UHD,Intel,512,SDD,Window,1.8,2021,FPTShop,14199000,https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-x515ea-bq1004t-i3-1115g4
+44,MACBOOK,Intel i5,4.3,Intel,16,13.3,Intel Iris,Intel,512,SDD,Mac OS,1.4,2020,FPTShop,46999000,https://fptshop.com.vn/may-tinh-xach-tay/macbook-pro-13-2020-2-0-ghz-i5-512gb
+45,LENOVO,Intel i5,4.0,Intel,16,13.0,Intel Iris,Intel,512,SDD,Window,0.9,2021,FPTShop,49999000,https://fptshop.com.vn/may-tinh-xach-tay/lenovo-thinkpad-x1-nano-i5-1130g7
+46,ACER,Intel i7,4.6,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.0,2021,FPTShop,50999000,https://fptshop.com.vn/may-tinh-xach-tay/acer-triton-gaming-pt315-53-71dj-i7-11800h
+47,LENOVO,Intel i5,4.2,Intel,16,14.0,Intel Iris,Intel,512,SDD,Window,1.1,2021,FPTShop,47999000,https://fptshop.com.vn/may-tinh-xach-tay/lenovo-thinkpad-x1-carbon-9-i5-1135g7
+48,HP,Intel i5,4.5,Intel,16,16.1,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.3,2021,FPTShop,43999000,https://fptshop.com.vn/may-tinh-xach-tay/hp-gaming-omen-16-b0141tx-i5-11400h
+49,ASUS,Intel i7,4.7,Intel,16,13.3,Intel Iris,Intel,1000,SDD,Window,1.2,2021,FPTShop,41999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-zenbook-ux371ea-hl494ts-i7-1165g7
+50,MACBOOK,Apple M1,3.2,Apple,16,13.3,M1 GPU,M1,256,SDD,Mac OS,1.4,2020,FPTShop,39999000,https://fptshop.com.vn/may-tinh-xach-tay/macbook-pro-13-2020-touch-bar-m1-ram-16gb?dung-luong=256gb
+51,HP,Intel i5,4.5,Intel,16,16.1,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.3,2021,FPTShop,39999000,https://fptshop.com.vn/may-tinh-xach-tay/hp-gaming-omen-16-b0142tx-i5-11400h
+52,ASUS,Intel i7,4.7,Intel,16,14.0,Intel Iris,Intel,1000,SDD,Window,1.6,2021,FPTShop,39999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-zenbook-duo-ux482ea-ka268t-i7-1165g7
+53,DELL,Intel i7,5.0,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.4,2021,FPTShop,37999000,https://fptshop.com.vn/may-tinh-xach-tay/dell-gaming-g5-5500-i7-10750h-rtx-2070
+54,DELL,Intel i7,5.0,Intel,8,15.6,NVIDIA GeForce GTX,NVIDIA,512,SDD,Window,2.6,2021,FPTShop,38999000,https://fptshop.com.vn/may-tinh-xach-tay/dell-gaming-g7-15-7500-i7-10750h
+55,ACER,AMD Ryzen 7,4.4,AMD,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.2,2021,FPTShop,39999000,https://fptshop.com.vn/may-tinh-xach-tay/acer-nitro-gaming-an515-45-r9sc-r7-5800h
+56,MACBOOK,Apple M1,3.2,Apple,8,13.3,M1 GPU,M1,256,SDD,Mac OS,1.4,2020,FPTShop,34999000,https://fptshop.com.vn/may-tinh-xach-tay/macbook-pro-13-2020-touch-bar-m1-256gb
+57,DELL,Intel i7,4.6,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.8,2021,FPTShop,33999000,https://fptshop.com.vn/may-tinh-xach-tay/dell-gaming-g15-5511-i7-11800h
+58,ASUS,Intel i5,4.2,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.6,2021,FPTShop,32999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-zenbook-duo-ux482ea-ka274t-i5-1135g7
+59,ASUS,Intel i5,4.2,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.6,2021,FPTShop,32999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-zenbook-duo-ux482ea-ka081t-i5-1135g7
+60,ACER,Intel i5,4.5,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.2,2021,FPTShop,32999000,https://fptshop.com.vn/may-tinh-xach-tay/acer-nitro-gaming-an515-57-5831-i5-11400h
+61,MICROSOFT,Intel i5,3.7,Intel,8,12.3,Intel Iris,Intel,256,SDD,Window,0.8,2019,FPTShop,31999000,https://fptshop.com.vn/may-tinh-xach-tay/microsoft-surface-pro-7-core-i5-1035g4-type-cover?dung-luong=256gb
+62,ASUS,AMD Ryzen 7,4.4,AMD,16,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,1.7,2021,FPTShop,29999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-pro-m3500qc-l1085t-r7-5800h
+63,ACER,Intel i7,4.6,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.2,2021,FPTShop,30499000,https://fptshop.com.vn/may-tinh-xach-tay/acer-nitro-gaming-an515-57-720a-i7-11800h
+64,MACBOOK,Apple M1,3.2,Apple,8,13.3,M1 GPU,M1,256,SDD,Mac OS,1.3,2020,FPTShop,28999000,https://fptshop.com.vn/may-tinh-xach-tay/macbook-air-13-2020-m1-256gb
+65,GIGABYTE,Intel i5,4.5,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.2,2021,FPTShop,29999000,https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-g5-md-i5-11400h
+66,LENOVO,Intel i7,4.7,Intel,16,14.0,Intel Iris,Intel,512,SDD,Window,1.4,2021,FPTShop,30299000,https://fptshop.com.vn/may-tinh-xach-tay/lenovo-yoga-slim-7-14itl05-i7-1165g7?he-dieu-hanh=win-11
+67,ASUS,Intel i7,4.6,Intel,8,17.3,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.6,2021,FPTShop,29999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-tuf-gaming-fx706hc-hx009t-i7-11800h
+68,HP,Intel i7,5.0,Intel,8,15.6,NVIDIA GeForce GTX,NVIDIA,512,SDD,Window,2.2,2021,FPTShop,27990000,https://fptshop.com.vn/may-tinh-xach-tay/hp-pavillion-gaming-15-dk1159tx-i7-10750h
+69,ASUS,Intel i7,4.8,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.0,2021,FPTShop,28990000,https://fptshop.com.vn/may-tinh-xach-tay/asus-gaming-tuf-fx516pc-hn001t-i7-11370h
+70,ASUS,Intel i7,4.6,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.3,2021,FPTShop,28499000,https://fptshop.com.vn/may-tinh-xach-tay/asus-tuf-gaming-fx506hcb-hn141t-i7-11800h
+71,HP,AMD Ryzen 7,4.2,AMD,8,13.3,AMD Radeon,AMD,256,SDD,Window,1.3,2020,FPTShop,27199000,https://fptshop.com.vn/may-tinh-xach-tay/hp-envy-x360-13-ay0069au-r7-4700u
+72,ACER,Intel i7,4.6,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.2,2021,FPTShop,28999000,https://fptshop.com.vn/may-tinh-xach-tay/acer-nitro-gaming-an515-57-71vv-i7-11800h
+73,ASUS,Intel i5,4.2,Intel,8,13.3,Intel Iris,Intel,512,SDD,Window,1.3,2021,FPTShop,27999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-zenbook-flip-ux363ea-hp532t-i5-1135g7
+74,ASUS,Intel i5,4.2,Intel,8,13.3,Intel Iris,Intel,512,SDD,Window,1.3,2021,FPTShop,27999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-zenbook-flip-ux363ea-hp726w-i5-1135g7
+75,ASUS,AMD Ryzen 5,4.2,AMD,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,1.7,2021,FPTShop,26599000,https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-pro-m3500qc-l1105t-r5-5600h
+76,DELL,Intel i7,4.7,Intel,8,15.6,Intel Iris,Intel,512,SDD,Window,1.7,2021,FPTShop,26499000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n3511-i7-1165g7
+77,GIGABYTE,Intel i7,5.0,Intel,16,14.0,Intel Iris,Intel,512,SDD,Window,1.0,2021,FPTShop,26999000,https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-u4-ud-i7-1195g7
+78,DELL,Intel i7,4.7,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.8,2021,FPTShop,25999000,https://fptshop.com.vn/may-tinh-xach-tay/dell-vostro-v3400-i7-1165g7
+79,LENOVO,AMD Ryzen 7,4.4,AMD,8,14.0,AMD Radeon,AMD,512,SDD,Window,1.5,2021,FPTShop,26999000,https://fptshop.com.vn/may-tinh-xach-tay/lenovo-yoga-7-14acn6-r7-5800u
+80,HP,Intel i7,4.7,Intel,16,14.0,Intel Iris,Intel,512,SDD,Window,1.4,2021,FPTShop,25190000,https://fptshop.com.vn/may-tinh-xach-tay/hp-probook-440-g8-i7-1165g7
+81,GIGABYTE,Intel i5,4.5,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.2,2021,FPTShop,26999000,https://fptshop.com.vn/may-tinh-xach-tay/gigabyte-gaming-g5-gd-i5-11400h
+82,MICROSOFT,Intel i5,3.7,Intel,8,12.3,Intel Iris,Intel,128,SDD,Window,0.8,2019,FPTShop,25999000,https://fptshop.com.vn/may-tinh-xach-tay/microsoft-surface-pro-7-core-i5-1035g4?dung-luong=128gb
+83,ASUS,Intel i5,4.5,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.3,2021,FPTShop,25999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-gaming-tuf-fx506hcb-hn1138w-i5-11400h
+84,ASUS,Intel i5,4.5,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.3,2021,FPTShop,25990000,https://fptshop.com.vn/may-tinh-xach-tay/asus-gaming-tuf-fx506hcb-hn139t-i5-11400h
+85,MSI,AMD Ryzen 7,4.4,AMD,8,15.6,AMD Radeon,AMD,512,SDD,Window,2.4,2021,FPTShop,25499000,https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-bravo-15-b5dd-275vn-r7-5800h
+86,DELL,Intel i7,4.7,Intel,8,15.6,Intel Iris,Intel,512,SDD,Window,2.0,2020,FPTShop,24599000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n3501-i7-1165g7-win10
+87,FUJITSU,Intel i5,4.2,Intel,8,13.3,Intel Iris,Intel,512,SDD,Window,1.0,2021,FPTShop,23799000,https://fptshop.com.vn/may-tinh-xach-tay/fujitsu-ch-9c13a1-i5-1135g7
+88,ASUS,Intel i5,4.2,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.2,2021,FPTShop,23999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-zenbook-ux425ea-ki429t-i5-1135g7
+89,DELL,Intel i5,3.2,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.4,2021,FPTShop,23699000,https://fptshop.com.vn/may-tinh-xach-tay/dell-vostro-v5410-i5-11320h
+90,ACER,Intel i5,4.4,Intel,8,15.6,NVIDIA GeForce GTX,NVIDIA,512,SDD,Window,2.2,2021,FPTShop,23999000,https://fptshop.com.vn/may-tinh-xach-tay/acer-nitro-gaming-an515-56-51n4-i5-11300h
+91,ASUS,Intel i7,4.7,Intel,8,15.6,Intel Iris,Intel,512,SDD,Window,1.8,2021,FPTShop,23499000,https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-a515ep-bq196t-i7-1165g7
+92,ACER,Intel i5,4.5,Intel,8,15.6,NVIDIA GeForce GTX,NVIDIA,512,SDD,Window,2.2,2021,FPTShop,23999000,https://fptshop.com.vn/may-tinh-xach-tay/acer-nitro-gaming-an515-57-56s5-i5-11400h
+93,DELL,Intel i5,4.2,Intel,8,15.6,Intel Iris,Intel,512,SDD,Window,1.7,2021,FPTShop,22999000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n3511-i5-1135g7-mx350
+94,ASUS,AMD Ryzen 7,4.4,AMD,8,14.0,AMD Radeon,AMD,512,SDD,Window,1.4,2021,FPTShop,22999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-pro-m3401qa-km040t-r7-5800h
+95,ACER,AMD Ryzen 5,4.2,AMD,8,15.6,NVIDIA GeForce GTX,NVIDIA,512,SDD,Window,2.2,2021,FPTShop,23499000,https://fptshop.com.vn/may-tinh-xach-tay/acer-nitro-gaming-an515-45-r3sm-r5-5600h
+96,HP,Intel i7,4.7,Intel,8,15.6,Intel Iris,Intel,512,SDD,Window,1.7,2021,FPTShop,22699000,https://fptshop.com.vn/may-tinh-xach-tay/hp-pavilion-15-eg0504tu-i7-1165g7?he-dieu-hanh=win-11
+97,DELL,Intel i5,4.2,Intel,8,15.6,Intel Iris,Intel,512,SDD,Window,2.0,2020,FPTShop,22499000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n3501-i5-1135g7-win10
+98,MSI,Intel i5,4.5,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.3,2021,FPTShop,22499000,https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-14-b11sbu-668vn-i5-1155g7
+99,MSI,AMD Ryzen 5,4.2,AMD,8,14.0,AMD Radeon,AMD,512,SDD,Window,2.4,2021,FPTShop,22499000,https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-bravo-15-b5dd-276vn-r5-5600h
+100,MSI,AMD Ryzen 5,4.2,AMD,8,15.6,AMD Radeon,AMD,512,SDD,Window,2.4,2021,FPTShop,21999000,https://fptshop.com.vn/may-tinh-xach-tay/msi-gaming-bravo-15-b5dd-217vn-r5-5600h
+101,MSI,Intel i7,5.0,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.3,2021,FPTShop,21999000,https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-14-b11mou-460vn-i7-1165g7
+102,ACER,AMD Ryzen 5,4.0,AMD,8,15.6,NVIDIA GeForce GTX,NVIDIA,512,SDD,Window,2.1,2021,FPTShop,21999000,https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-gaming-a715-42g-r05g-r5-5500u
+103,MSI,AMD Ryzen 7,4.3,AMD,8,15.6,AMD Radeon,AMD,512,SDD,Window,1.6,2021,FPTShop,19990000,https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-15-a5m-235vn-r7-5700u
+104,ASUS,AMD Ryzen 7,4.3,AMD,8,14.0,AMD Radeon,AMD,512,SDD,Window,1.5,2021,FPTShop,20499000,https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-flip-tm420ua-ec024t-r7-5700u
+105,DELL,AMD Ryzen 5,4.0,AMD,8,14.0,AMD Radeon,AMD,256,SDD,Window,1.4,2021,FPTShop,19799000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n5415-r5-5500u
+106,ACER,AMD Ryzen 5,4.0,AMD,8,15.6,NVIDIA GeForce GTX,NVIDIA,256,SDD,Window,2.1,2021,FPTShop,20999000,https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-gaming-a715-42g-r1sb-r5-5500u
+107,ACER,AMD Ryzen 5,4.0,AMD,16,14.0,AMD Radeon,AMD,512,SDD,Window,1.2,2021,FPTShop,20999000,https://fptshop.com.vn/may-tinh-xach-tay/acer-swift-3-sf314-43-r4x3-r5-5500u
+108,ASUS,Intel i5,4.2,Intel,8,15.6,Intel Iris,Intel,512,SDD,Window,1.8,2021,FPTShop,20099000,https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-a515ep-bq496t-i5-1135g7-mx330-2gb
+109,ASUS,AMD Ryzen 7,4.2,AMD,8,14.0,AMD Radeon,AMD,1000,SDD,Window,1.5,2020,FPTShop,19999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-m413ia-ek481t-r7-4700u
+110,DELL,AMD Ryzen 3,3.8,AMD,8,15.6,AMD Radeon,AMD,256,SDD,Window,1.7,2021,FPTShop,18599000,https://fptshop.com.vn/may-tinh-xach-tay/dell-vostro-v5515-r3-5300u
+111,MICROSOFT,Intel i5,3.6,Intel,8,12.4,Intel UHD,Intel,128,SDD,Window,1.1,2020,FPTShop,19999000,https://fptshop.com.vn/may-tinh-xach-tay/microsoft-surface-go-i5-1035g1?dung-luong=128gb
+112,HP,Intel i5,4.2,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.4,2021,FPTShop,18499000,https://fptshop.com.vn/may-tinh-xach-tay/hp-pavilion-14-dv0510tu-i5-1135g7?he-dieu-hanh=win-10
+113,ASUS,Intel i5,4.2,Intel,8,15.6,Intel Iris,Intel,512,SDD,Window,1.8,2021,FPTShop,18999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-x515ep-bq189t-i5-1135g7
+114,MSI,AMD Ryzen 5,4.0,AMD,8,15.6,AMD Radeon,AMD,512,SDD,Window,1.6,2021,FPTShop,17999000,https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-15-a5m-234vn-r5-5500u
+115,LENOVO,AMD Ryzen 5,4.0,AMD,8,14.0,AMD Radeon,AMD,512,SDD,Window,1.4,2021,FPTShop,18699000,https://fptshop.com.vn/may-tinh-xach-tay/lenovo-thinkbook-14-g3-acl-r5-5500u
+116,ASUS,Intel i5,4.2,Intel,8,15.6,Intel Iris,Intel,512,SDD,Window,1.8,2021,FPTShop,18199000,https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-x515ea-bq993t-i5-1135g7
+117,HP,Intel i5,3.6,Intel,8,14.0,Intel UHD,Intel,256,SDD,Window,1.3,2021,FPTShop,17199000,https://fptshop.com.vn/may-tinh-xach-tay/hp-340s-g7-i5-1035g1
+118,MSI,AMD Ryzen 5,4.0,AMD,8,14.0,AMD Radeon,AMD,512,SDD,Window,1.3,2021,FPTShop,16999000,https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-14-b5m-202vn-r5-5500u
+119,HP,Intel i5,4.2,Intel,8,15.6,Intel Iris,Intel,512,SDD,Window,1.8,2021,FPTShop,16999000,https://fptshop.com.vn/may-tinh-xach-tay/hp-15s-fq2561tu-i5-1135g7?he-dieu-hanh=win-11
+120,HP,AMD Ryzen 5,4.0,AMD,8,14.0,AMD Radeon,AMD,512,SDD,Window,1.5,2021,FPTShop,16699000,https://fptshop.com.vn/may-tinh-xach-tay/hp-245-g8-r5-5500u
+121,MSI,AMD Ryzen 5,4.0,AMD,8,14.0,AMD Radeon,AMD,512,SDD,Window,1.3,2021,FPTShop,17299000,https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-14-b5m-r5-5500u-win-10
+122,ACER,Intel i5,3.6,Intel,8,15.6,Intel UHD,Intel,512,SDD,Window,1.9,2020,FPTShop,16999000,https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-3-a315-57g-524z-i5-1035g1
+123,HP,Intel i5,4.2,Intel,8,15.6,Intel Iris,Intel,256,SDD,Window,1.8,2021,FPTShop,15999000,https://fptshop.com.vn/may-tinh-xach-tay/hp-15s-fq2602tu-i5-1135g7?he-dieu-hanh=win-11
+124,ASUS,Intel i3,4.1,Intel,8,15.6,Intel UHD,Intel,256,SDD,Window,1.8,2021,FPTShop,15999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-a515ea-bn1688t-i3-1115g4
+125,ASUS,Intel i3,4.1,Intel,8,15.6,Intel UHD,Intel,512,SDD,Window,1.8,2021,FPTShop,14999000,https://fptshop.com.vn/may-tinh-xach-tay/asus-vivobook-x515ea-bq1005t-i3-1115g4
+126,LENOVO,AMD Ryzen 5,3.7,AMD,8,15.6,AMD Radeon,AMD,512,SDD,Window,1.9,2021,FPTShop,14499000,https://fptshop.com.vn/may-tinh-xach-tay/lenovo-ideapad-slim-3-15ada05-r5-3500u
+127,MSI,Intel i3,4.1,Intel,8,14.0,Intel UHD,Intel,256,SDD,Window,1.3,2021,FPTShop,14699000,https://fptshop.com.vn/may-tinh-xach-tay/msi-modern-14-b11mou-850vn-i3-1115g4
+128,ACER,Intel i3,3.4,Intel,4,15.6,Intel UHD,Intel,256,SDD,Window,1.7,2021,FPTShop,13490000,https://fptshop.com.vn/may-tinh-xach-tay/acer-aspire-a315-57g-31yd-i3-1005g1
+129,DELL,Intel Pentium,3.1,Intel,4,15.6,Intel UHD,Intel,128,SDD,Window,1.8,2020,FPTShop,11699000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n3502-pentium-n5030-win-10-nk
+130,DELL,Intel Celeron,2.8,Intel,4,15.6,Intel UHD,Intel,128,SDD,Window,1.7,2021,FPTShop,10999000,https://fptshop.com.vn/may-tinh-xach-tay/dell-inspiron-n3510-n4020-nk
+131,ASUS,Intel Pentium,2.0,Intel,4,11.6,Intel UHD,Intel,64,SDD,Window,1.4,2021,FPTShop,10499000,https://fptshop.com.vn/may-tinh-xach-tay/asus-flip-br1100fka-bp0660t-n6000
+132,ASUS,Intel Celeron,2.4,Intel,4,11.6,Intel UHD,Intel,128,SDD,Window,1.4,2021,FPTShop,9699000,https://fptshop.com.vn/may-tinh-xach-tay/asus-flip-br1100fka-bp0531t-n4500
+133,MSI,Intel i7,2.3,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.1,2021,Dienmayxanh,29090000,https://www.dienmayxanh.com/laptop/msi-gf66-11uc-i7-224vn?src=osp
+134,MSI,Intel i7,2.3,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.3,2021,Dienmayxanh,32790000,https://www.dienmayxanh.com/laptop/msi-gaming-pulse-gl66-11udk-i7-816vn?src=osp
+135,ACER,Intel i7,2.3,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.2,2021,Dienmayxanh,27990000,https://www.dienmayxanh.com/laptop/acer-nitro-gaming-an515-57-727j-i7-nhqd9sv005?src=osp
+136,ACER,Intel i5,2.7,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.2,2021,Dienmayxanh,31390000,https://www.dienmayxanh.com/laptop/acer-nitro-5-gaming-an515-57-5831-i5-nhqdgsv003?src=osp
+137,ACER,Intel i7,2.3,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.2,2021,Dienmayxanh,28490000,https://www.dienmayxanh.com/laptop/acer-nitro-5-gaming-an515-57-720a-i7-nhqeqsv004?src=osp
+138,GIGABYTE,Intel i5,2.5,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.2,2021,Dienmayxanh,28490000,https://www.dienmayxanh.com/laptop/gigabyte-gaming-g5-i5-kc5s11130sb?src=osp
+139,ACER,Intel i7,2.3,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.2,2021,Dienmayxanh,26990000,https://www.dienmayxanh.com/laptop/acer-nitro-5-gaming-an515-57-71vv-i7-nhqensv005?src=osp
+140,MSI,Intel i7,2.3,Intel,8,17.3,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.6,2021,Dienmayxanh,28990000,https://www.dienmayxanh.com/laptop/msi-katana-gf76-11uc-i7-441vn?src=osp
+141,MSI,Intel i7,3.3,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,1.7,2021,Dienmayxanh,40790000,https://www.dienmayxanh.com/laptop/msi-gaming-stealth-15m-a11uek-i7-254vn?src=osp
+142,GIGABYTE,Intel i5,2.7,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.2,2021,Dienmayxanh,27990000,https://www.dienmayxanh.com/laptop/gigabyte-gaming-g5-i5-md51s1123sh?src=osp
+143,ASUS,Intel i5,2.7,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.3,2021,Dienmayxanh,24990000,https://www.dienmayxanh.com/laptop/asus-tuf-gaming-fx506hcb-i5-hn1138w?src=osp
+144,ASUS,Intel i7,3.3,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.0,2021,Dienmayxanh,31990000,https://www.dienmayxanh.com/laptop/asus-tuf-gaming-fx516pm-i7-hn002t?src=osp
+145,ASUS,Intel i7,3.3,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.0,2021,Dienmayxanh,28990000,https://www.dienmayxanh.com/laptop/asus-tuf-gaming-fx516pe-i7-hn005t?src=osp
+146,MSI,Intel i7,4.6,Intel,32,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.4,2021,Dienmayxanh,75190000,https://www.dienmayxanh.com/laptop/msi-gaming-ge66-raider-11uh-i7-259vn?src=osp
+147,ACER,Intel i7,4.6,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.0,2021,Dienmayxanh,46990000,https://www.dienmayxanh.com/laptop/acer-predator-triton-300-pt315-53-71dj-i7?src=osp
+148,MSI,Intel i7,4.6,Intel,32,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.1,2021,Dienmayxanh,62490000,https://www.dienmayxanh.com/laptop/msi-gaming-gs66-stealth-11ug-i7-219vn?src=osp
+149,MSI,Intel i7,4.6,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.4,2021,Dienmayxanh,58190000,https://www.dienmayxanh.com/laptop/msi-gaming-ge66-raider-11ug-i7-258vn?src=osp
+150,DELL,Intel i7,2.8,Intel,16,13.4,Intel Iris,Intel,1000,SDD,Window,1.3,2020,Dienmayxanh,56990000,https://www.dienmayxanh.com/laptop/dell-xps-13-9310-i7-jgnh62?src=osp
+151,LG,Intel i7,2.8,Intel,16,17.3,Intel Iris,Intel,1000,SDD,Window,1.4,2021,Dienmayxanh,52140000,https://www.dienmayxanh.com/laptop/lg-gram-17-i7-17z90pgah78a5?src=osp
+152,MSI,Intel i7,2.3,Intel,16,17.3,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.9,2021,Dienmayxanh,51490000,https://www.dienmayxanh.com/laptop/msi-gp76-11ug-i7-435vn?src=osp
+153,LG,Intel i7,2.8,Intel,16,17.3,Intel Iris,Intel,512,SDD,Window,1.4,2021,Dienmayxanh,50240000,https://www.dienmayxanh.com/laptop/lg-gram-17-i7-17z90pgah76a5?src=osp
+154,LG,Intel i7,2.8,Intel,16,16.0,Intel Iris,Intel,512,SDD,Window,1.2,2021,Dienmayxanh,48340000,https://www.dienmayxanh.com/laptop/lg-gram-16-i7-16z90pgah75a5?src=osp
+155,MACBOOK,Apple M1,3.2,Apple,16,13.3,M1 GPU,M1,1000,SDD,Mac OS,1.4,2020,Dienmayxanh,48340000,https://www.dienmayxanh.com/laptop/apple-macbook-pro-m1-2020-z11c000cj?src=osp
+156,LG,Intel i7,2.8,Intel,16,16.0,Intel Iris,Intel,256,SDD,Window,1.2,2021,Dienmayxanh,46440000,https://www.dienmayxanh.com/laptop/lg-gram-16-i7-16z90pgah73a5?src=osp
+157,MSI,Intel i7,2.9,Intel,16,16.0,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,1.9,2021,Dienmayxanh,44640000,https://www.dienmayxanh.com/laptop/msi-summit-e16-flip-i7-082vn?src=osp
+158,ACER,Intel i7,2.3,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.0,2021,Dienmayxanh,41990000,https://www.dienmayxanh.com/laptop/acer-predator-triton-300-pt315-53-75lq-i7?src=osp
+159,MACBOOK,Apple M1,3.2,Apple,16,13.3,M1 GPU,M1,512,SDD,Mac OS,1.4,2020,Dienmayxanh,40740000,https://www.dienmayxanh.com/laptop/apple-macbook-pro-2020-z11c?src=osp
+160,ASUS,Intel i7,2.8,Intel,16,13.3,Intel Iris,Intel,1000,SDD,Window,1.2,2021,Dienmayxanh,39390000,https://www.dienmayxanh.com/laptop/asus-zenbook-ux371ea-i7-hl494ts?src=osp
+161,MSI,Intel i7,3.0,Intel,16,13.4,Intel Iris,Intel,1000,SDD,Window,1.4,2021,Dienmayxanh,37990000,https://www.dienmayxanh.com/laptop/msi-summit-e13-flip-i7-211vn?src=osp
+162,ASUS,Intel i7,2.8,Intel,16,14.0,Intel Iris,Intel,1000,SDD,Window,1.6,2021,Dienmayxanh,37490000,https://www.dienmayxanh.com/laptop/asus-zenbook-ux482ea-i7-ka111t?src=osp
+163,ASUS,Intel i7,2.8,Intel,16,14.0,Intel Iris,Intel,1000,SDD,Window,1.6,2021,Dienmayxanh,37490000,https://www.dienmayxanh.com/laptop/asus-zenbook-duo-ux482ea-i7-ka268t?src=osp
+164,ACER,Intel i7,2.3,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.3,2021,Dienmayxanh,36990000,https://www.dienmayxanh.com/laptop/acer-predator-helios-ph315-54-75yd-i7-nhqc2sv002?src=osp
+165,MACBOOK,Apple M1,3.2,Apple,16,13.3,M1 GPU,M1,256,SDD,Mac OS,1.4,2020,Dienmayxanh,36490000,https://www.dienmayxanh.com/laptop/apple-macbook-pro-m1-2020-z11b000ct?src=osp
+166,MACBOOK,Apple M1,3.2,Apple,8,13.3,M1 GPU,M1,512,SDD,Mac OS,1.4,2020,Dienmayxanh,35990000,https://www.dienmayxanh.com/laptop/apple-macbook-pro-2020-myd92saa?src=osp
+167,MACBOOK,Apple M1,3.2,Apple,16,13.3,M1 GPU,M1,512,SDD,Mac OS,1.3,2020,Dienmayxanh,35510000,https://www.dienmayxanh.com/laptop/apple-macbook-air-m1-2020-z12a00050?src=osp
+168,MSI,Intel i7,3.0,Intel,16,15.6,NVIDIA GeForce GTX,NVIDIA,1000,SDD,Window,1.7,2021,Dienmayxanh,33240000,https://www.dienmayxanh.com/laptop/msi-prestige-15-a11sc-i7-052vn?src=osp
+169,ACER,Intel i7,2.3,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.3,2021,Dienmayxanh,31990000,https://www.dienmayxanh.com/laptop/acer-predator-helios-ph315-54-78w5-i7-nhqc5sv001?src=osp
+170,ASUS,Intel i7,2.8,Intel,16,13.3,Intel Iris,Intel,512,SDD,Window,1.3,2021,Dienmayxanh,31790000,https://www.dienmayxanh.com/laptop/asus-zenbook-flip-ux363ea-i7-hp163t?src=osp
+171,MSI,Intel i7,2.6,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,1.9,2021,Dienmayxanh,31540000,https://www.dienmayxanh.com/laptop/msi-gf65-10ue-i7-228vn?src=osp
+172,ASUS,Intel i7,2.3,Intel,8,17.3,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.6,2021,Dienmayxanh,30990000,https://www.dienmayxanh.com/laptop/asus-tuf-gaming-fx706he-i7-hx011t?src=osp
+173,ASUS,Intel i5,2.4,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.6,2021,Dienmayxanh,30840000,https://www.dienmayxanh.com/laptop/asus-zenbook-ux482ea-i5-ka274t?src=osp
+174,MACBOOK,Apple M1,3.2,Apple,16,13.3,M1 GPU,M1,256,SDD,Mac OS,1.3,2020,Dienmayxanh,30790000,https://www.dienmayxanh.com/laptop/apple-macbook-air-m1-2020-z124000de?src=osp
+175,ASUS,Intel i7,3.3,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,1.7,2021,Dienmayxanh,29890000,https://www.dienmayxanh.com/laptop/asus-vivobook-pro-15-oled-k3500pc-i7-l1046t?src=osp
+176,DELL,Intel i7,2.8,Intel,8,15.6,Intel Iris,Intel,1000,SDD,Window,1.8,2021,Dienmayxanh,29440000,https://www.dienmayxanh.com/laptop/dell-latitude-3520-i7-70261780?src=osp
+177,ASUS,Intel i7,2.3,Intel,8,17.3,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.6,2021,Dienmayxanh,28990000,https://www.dienmayxanh.com/laptop/asus-tuf-gaming-fx706hc-i7-hx009t?src=osp
+178,DELL,Intel i5,2.4,Intel,16,14.0,NVIDIA GeForce MX,NVIDIA,1000,SDD,Window,1.4,2020,Dienmayxanh,28960000,https://www.dienmayxanh.com/laptop/dell-inspiron-7400-i5-n4i5134w?src=osp
+179,ASUS,Intel i7,2.8,Intel,16,14.0,Intel Iris,Intel,512,SDD,Window,1.2,2020,Dienmayxanh,28650000,https://www.dienmayxanh.com/laptop/asus-zenbook-ux425ea-i7-ki439t?src=osp
+180,MSI,Intel i5,2.5,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,1.9,2021,Dienmayxanh,28590000,https://www.dienmayxanh.com/laptop/msi-gaming-gf65-thin-10ue-i5-286vn?src=osp
+181,GIGABYTE,Intel i5,2.5,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.2,2021,Dienmayxanh,27990000,https://www.dienmayxanh.com/laptop/gigabyte-gaming-g5-i5-5s11130sh?src=osp
+182,ASUS,AMD Ryzen 7,3.0,AMD,8,14.0,NVIDIA GeForce GTX,NVIDIA,512,SDD,Window,1.6,2021,Dienmayxanh,27990000,https://www.dienmayxanh.com/laptop/asus-rog-zephyrus-g14-ga401qh-r7-hz035t?src=osp
+183,ACER,Intel i7,2.3,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.2,2021,Dienmayxanh,27990000,https://www.dienmayxanh.com/laptop/acer-nitro-5-gaming-an515-57-74nu-i7-nhqd9sv001?src=osp
+184,ASUS,Intel i7,3.3,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.0,2021,Dienmayxanh,27990000,https://www.dienmayxanh.com/laptop/asus-tuf-gaming-fx516pc-i7-hn001t?src=osp
+185,ASUS,Intel i7,2.3,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.3,2021,Dienmayxanh,27490000,https://www.dienmayxanh.com/laptop/asus-tuf-gaming-fx506hcb-i7-hn141t?src=osp
+186,ACER,Intel i5,2.7,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.2,2021,Dienmayxanh,27340000,https://www.dienmayxanh.com/laptop/acer-nitro-5-an515-57-54af-i5-nhqensv004?src=osp
+187,LENOVO,Intel i5,2.4,Intel,8,13.3,Intel Iris,Intel,512,SDD,Window,1.2,2021,Dienmayxanh,27140000,https://www.dienmayxanh.com/laptop/lenovo-yoga-duet-7-13itl6-i5-82ma000pvn?src=osp
+188,LENOVO,Intel i7,2.8,Intel,8,14.0,Intel Iris,Intel,1000,SDD,Window,1.4,2020,Dienmayxanh,27040000,https://www.dienmayxanh.com/laptop/lenovo-yoga-7-14itl5-i7-82bh00ckvn?src=osp
+189,ASUS,Intel i5,3.1,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,1.7,2021,Dienmayxanh,26660000,https://www.dienmayxanh.com/laptop/asus-vivobook-pro-15-oled-k3500pc-i5-l1045t?src=osp
+190,LENOVO,Intel i7,2.8,Intel,8,14.0,Intel Iris,Intel,1000,SDD,Window,1.5,2021,Dienmayxanh,26490000,https://www.dienmayxanh.com/laptop/lenovo-thinkbook-14s-yoga-itl-i7-20we004evn?src=osp
+191,ACER,Intel i7,1.8,Intel,8,14.0,Intel UHD,Intel,256,SDD,Window,0.9,2018,Dienmayxanh,26290000,https://www.dienmayxanh.com/laptop/acer-swift-sf5-i7-8565u-8gb-256gb-win10?src=osp
+192,ASUS,Intel i5,2.4,Intel,8,13.3,Intel Iris,Intel,512,SDD,Window,1.3,2021,Dienmayxanh,26090000,https://www.dienmayxanh.com/laptop/asus-zenbook-flip-ux363ea-i5-hp532t?src=osp
+193,ASUS,Intel i5,2.4,Intel,8,13.3,Intel Iris,Intel,512,SDD,Window,1.3,2021,Dienmayxanh,26090000,https://www.dienmayxanh.com/laptop/asus-zenbook-flip-ux363ea-i5-hp726w?src=osp
+194,LENOVO,Intel i7,2.8,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.4,2021,Dienmayxanh,26090000,https://www.dienmayxanh.com/laptop/lenovo-yoga-slim-7-14itl05-i7-82a300dqvn?src=osp
+195,MACBOOK,Apple M1,3.2,Apple,8,13.3,M1 GPU,M1,256,SDD,Mac OS,1.3,2020,Dienmayxanh,26040000,https://www.dienmayxanh.com/laptop/apple-macbook-air-2020-mgn63saa?src=osp
+196,ASUS,Intel i5,2.7,Intel,8,17.3,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.6,2021,Dienmayxanh,25990000,https://www.dienmayxanh.com/laptop/asus-tuf-gaming-fx706hc-i5-hx003t?src=osp
+197,DELL,Intel i5,2.5,Intel,8,14.0,NVIDIA GeForce MX,NVIDIA,1000,SDD,Window,1.7,2021,Dienmayxanh,25920000,https://www.dienmayxanh.com/laptop/dell-inspiron-14-5410-i5-n4i5547w?src=osp
+198,GIGABYTE,Intel i5,2.7,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.2,2021,Dienmayxanh,25640000,https://www.dienmayxanh.com/laptop/gigabyte-g5-i5-gd51s1123sh?src=osp
+199,ACER,Intel i5,2.7,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.2,2021,Dienmayxanh,25490000,https://www.dienmayxanh.com/laptop/acer-nitro-5-gaming-an515-57-50ft-i5-nhqd8sv003?src=osp
+200,ASUS,AMD Ryzen 5,3.3,AMD,8,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,1.7,2021,Dienmayxanh,25260000,https://www.dienmayxanh.com/laptop/asus-vivobook-pro-15-oled-m3500qc-r5-l1105t?src=osp
+201,GIGABYTE,Intel i5,2.7,Intel,16,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.2,2021,Dienmayxanh,24990000,https://www.dienmayxanh.com/laptop/gigabyte-g5-i5-51s1121sh?src=osp
+202,ASUS,Intel i5,2.7,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.3,2021,Dienmayxanh,24990000,https://www.dienmayxanh.com/laptop/asus-tuf-gaming-fx506hcb-i5-hn139t?src=osp
+203,ASUS,Intel i5,2.7,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.3,2020,Dienmayxanh,24990000,https://www.dienmayxanh.com/laptop/asus-tuf-gaming-fx506hc-i5-hn002t?src=osp
+204,ACER,Intel i5,2.7,Intel,8,15.6,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,2.2,2021,Dienmayxanh,24960000,https://www.dienmayxanh.com/laptop/acer-nitro-5-gaming-an515-57-54mv-i5-nhqensv003?src=osp
+205,MSI,AMD Ryzen 7,3.2,AMD,8,15.6,AMD Radeon,AMD,1000,SDD,Window,2.4,2021,Dienmayxanh,24740000,https://www.dienmayxanh.com/laptop/msi-gaming-bravo-15-b5dd-r7-278vn?src=osp
+206,LENOVO,Intel i7,2.6,Intel,8,15.6,NVIDIA GeForce GTX,NVIDIA,512,SDD,Window,2.2,2020,Dienmayxanh,24640000,https://www.dienmayxanh.com/laptop/lenovo-ideapad-gaming-3-15imh05-i7-81y4013uvn?src=osp
+207,MSI,AMD Ryzen 7,3.2,AMD,8,15.6,AMD Radeon,AMD,1000,SDD,Window,2.4,2021,Dienmayxanh,24240000,https://www.dienmayxanh.com/laptop/msi-gaming-bravo-15-b5dd-r7-083vn?src=osp
+208,ACER,Intel i5,3.1,Intel,16,15.6,NVIDIA GeForce GTX,NVIDIA,1000,SDD,Window,2.2,2021,Dienmayxanh,23990000,https://www.dienmayxanh.com/laptop/acer-nitro-5-gaming-an515-56-5256-i5-nhqbzsv005?src=osp
+209,LENOVO,Intel i7,2.8,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.3,2020,Dienmayxanh,23740000,https://www.dienmayxanh.com/laptop/lenovo-thinkbook-14s-g2-itl-i7-20va000mvn?src=osp
+210,LENOVO,Intel i5,2.4,Intel,8,14.0,Intel Iris,Intel,1000,SDD,Window,1.5,2021,Dienmayxanh,23550000,https://www.dienmayxanh.com/laptop/lenovo-thinkbook-14s-yoga-itl-i5-20we004cvn?src=osp
+211,DELL,Intel i5,2.4,Intel,8,15.6,Intel Iris,Intel,1000,SDD,Window,1.8,2021,Dienmayxanh,23450000,https://www.dienmayxanh.com/laptop/dell-latitude-3520-i5-70251593?src=osp
+212,DELL,Intel i5,3.2,Intel,8,14.0,Intel Iris,Intel,1000,SDD,Window,1.4,2021,Dienmayxanh,23260000,https://www.dienmayxanh.com/laptop/dell-inspiron-14-5410-i5-p143g001asl?src=osp
+213,DELL,AMD Ryzen 7,1.8,AMD,8,15.6,AMD Radeon,AMD,1000,SDD,Window,1.8,2021,Dienmayxanh,23070000,https://www.dienmayxanh.com/laptop/dell-inspiron-15-5515-r7-n5r75700u104w?src=osp
+214,ASUS,Intel i5,2.4,Intel,8,13.3,Intel Iris,Intel,1000,SDD,Window,1.1,2021,Dienmayxanh,22570000,https://www.dienmayxanh.com/laptop/asus-zenbook-ux325ea-i5-kg363t?src=osp
+215,LENOVO,Intel i5,2.4,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.3,2020,Dienmayxanh,22500000,https://www.dienmayxanh.com/laptop/lenovo-thinkbook-14s-g2-itl-i5-20va000nvn?src=osp
+216,LENOVO,Intel i5,2.4,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.4,2021,Dienmayxanh,22390000,https://www.dienmayxanh.com/laptop/lenovo-yoga-slim-7-14itl05-i5-82a300dpvn?src=osp
+217,ASUS,Intel i5,2.4,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.2,2020,Dienmayxanh,22290000,https://www.dienmayxanh.com/laptop/asus-zenbook-ux425ea-i5-ki429t?src=osp
+218,MSI,Intel i7,2.6,Intel,8,15.6,NVIDIA GeForce GTX,NVIDIA,1000,SDD,Window,1.9,2021,Dienmayxanh,21990000,https://www.dienmayxanh.com/laptop/msi-gaming-gf63-thin-10sc-i7-480vn?src=osp
+219,MSI,Intel i5,2.5,Intel,8,14.0,NVIDIA GeForce MX,NVIDIA,1000,SDD,Window,1.3,2021,Dienmayxanh,21990000,https://www.dienmayxanh.com/laptop/msi-gaming-modern-14-b11sbu-i5-669vn?src=osp
+220,LENOVO,Intel i5,2.4,Intel,8,14.0,NVIDIA GeForce MX,NVIDIA,1000,SDD,Window,1.4,2021,Dienmayxanh,21910000,https://www.dienmayxanh.com/laptop/lenovo-ideapad-5-pro-14itl6-i5-82l30094vn?src=osp
+221,DELL,Intel i5,3.1,Intel,8,15.6,Intel Iris,Intel,1000,SDD,Window,1.8,2021,Dienmayxanh,21840000,https://www.dienmayxanh.com/laptop/dell-inspiron-15-5510-i5-0wt8r1?src=osp
+222,DELL,Intel i5,3.1,Intel,8,15.6,Intel Iris,Intel,1000,SDD,Window,1.8,2021,Dienmayxanh,21840000,https://www.dienmayxanh.com/laptop/dell-vostro-5510-i5-70253901?src=osp
+223,MSI,AMD Ryzen 5,3.3,AMD,8,15.6,AMD Radeon,AMD,1000,SDD,Window,2.4,2021,Dienmayxanh,21340000,https://www.dienmayxanh.com/laptop/msi-gaming-bravo-15-b5dd-r5-084vn?src=osp
+224,ASUS,Intel i5,2.5,Intel,8,15.6,NVIDIA GeForce GTX,NVIDIA,512,SDD,Window,2.3,2020,Dienmayxanh,20990000,https://www.dienmayxanh.com/laptop/asus-uf-gaming-fx506lh-i5-hn002t?src=osp
+225,MSI,Intel i7,2.9,Intel,8,14.0,Intel Iris,Intel,1000,SDD,Window,1.3,2021,Dienmayxanh,20890000,https://www.dienmayxanh.com/laptop/msi-modern-14-b11mou-i7-847vn?src=osp
+226,LENOVO,Intel i5,2.5,Intel,8,15.6,NVIDIA GeForce GTX,NVIDIA,512,SDD,Window,2.2,2020,Dienmayxanh,20840000,https://www.dienmayxanh.com/laptop/lenovo-ideapad-gaming-3-15imh05-i5-81y4013vvn?src=osp
+227,DELL,AMD Ryzen 5,2.1,AMD,8,14.0,AMD Radeon,AMD,1000,SDD,Window,1.4,2021,Dienmayxanh,20130000,https://www.dienmayxanh.com/laptop/dell-vostro-5415-r5-v4r55500u015w?src=osp
+228,DELL,Intel i5,2.4,Intel,8,14.0,Intel Iris,Intel,256,SDD,Window,1.4,2020,Dienmayxanh,19940000,https://www.dienmayxanh.com/laptop/dell-vostro-5402-i5-v4i5003w?src=osp
+229,ACER,AMD Ryzen 5,2.1,AMD,8,15.6,NVIDIA GeForce GTX,NVIDIA,256,SDD,Window,2.1,2021,Dienmayxanh,18990000,https://www.dienmayxanh.com/laptop/acer-aspire-7-a715-42g-r4st-r5-nhqaysv004?src=osp
+230,MSI,Intel i5,2.5,Intel,8,15.6,Intel Iris,Intel,1000,SDD,Window,1.6,2021,Dienmayxanh,18040000,https://www.dienmayxanh.com/laptop/msi-modern-15-a11mu-i5-680vn?src=osp
+231,MSI,Intel i3,3.0,Intel,8,14.0,Intel UHD,Intel,1000,SDD,Window,1.3,2021,Dienmayxanh,13950000,https://www.dienmayxanh.com/laptop/msi-modern-14-b11mol-i3-813vn?src=osp
+232,MSI,Intel i3,3.0,Intel,8,14.0,Intel UHD,Intel,1000,SDD,Window,1.3,2021,Dienmayxanh,13480000,https://www.dienmayxanh.com/laptop/msi-modern-14-b11mou-i3-849vn?src=osp
+233,MACBOOK,Intel i5,3.6,Intel,8,13.3,Intel UHD,Intel,256,SDD,Mac OS,1.3,2021,Phongvu,32190000,https://phongvu.vn/may-tinh-xach-tay-laptop-macbook-air-2019-mvfl2saa-bac-s190800125.html?sku=190800125
+234,ACER,Intel i3,3.4,Intel,4,15.6,Intel UHD,Intel,256,SDD,Window,1.7,2021,Phongvu,11990000,https://phongvu.vn/may-tinh-xach-tay-laptop-acer-aspire-3-a3155637dv-nxhs5sv001-i31005g1-den-s200400313.html?sku=200400313
+235,ASUS,Intel i5,4.2,Intel,8,13.3,Intel Iris,Intel,512,SDD,Window,1.3,2020,Phongvu,27490000,https://phongvu.vn/may-tinh-xach-tay-laptop-asus-zenbook-ux363ea-hp130t-i5-1135g7-xam-s201201496.html?sku=201201496
+236,ACER,AMD Ryzen 5,4.0,AMD,8,15.6,NVIDIA GeForce GTX,NVIDIA,256,SDD,Window,2.1,2020,Phongvu,18990000,https://phongvu.vn/may-tinh-xach-tay-laptop-acer-aspire-7-a715-42g-r4st-nh-qaysv-004-amd-ryzen-5-5500h-den-s210300340.html?sku=210300340
+237,ACER,AMD Ryzen 7,4.4,AMD,8,15.6,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,2.2,2020,Phongvu,37490000,https://phongvu.vn/may-tinh-xach-tay-laptop-acer-nitro-5-an515-45-r9sc-nh-qbrsv-001-amd-ryzen-7-5800h-den-s210400696.html?sku=210400696
+238,LG,Intel i5,4.2,Intel,16,14.0,Intel Iris,Intel,512,SDD,Window,1.0,2021,Phongvu,37900000,https://phongvu.vn/may-tinh-xach-tay-laptop-lg-gram-2021-14zd90p-g-ax56a5-i5-1135g7-bac-s210500986.html?sku=210500986
+239,LG,Intel i7,4.7,Intel,16,14.0,Intel Iris,Intel,512,SDD,Window,1.0,2021,Phongvu,47900000,https://phongvu.vn/may-tinh-xach-tay-laptop-lg-gram-2021-14z90p-g-ah75a5-i7-1165g7-den-s210500987.html?sku=210500987
+240,LG,Intel i7,4.7,Intel,16,16.0,Intel Iris,Intel,512,SDD,Window,1.1,2020,Phongvu,50900000,https://phongvu.vn/may-tinh-xach-tay-laptop-lg-gram-2021-16z90p-g-ah75a5-i7-1165g7-den-s210500990.html?sku=210500990
+241,LG,Intel i7,4.7,Intel,16,17.0,Intel Iris,Intel,512,SDD,Window,1.4,2020,Phongvu,52900000,https://phongvu.vn/may-tinh-xach-tay-laptop-lg-gram-2021-17z90p-g-ah76a5-i7-1165g7-bac-s210500992.html?sku=210500992
+242,LENOVO,Intel i7,4.7,Intel,16,14.0,Intel Iris,Intel,1000,SDD,Window,1.2,2020,Phongvu,48990000,https://phongvu.vn/may-tinh-xach-tay-laptop-lenovo-yoga-slim-9-14itl5-82d1004jvn-i7-1165g7-den-s210600187.html?sku=210600187
+243,DELL,Intel i3,4.1,Intel,4,15.6,Intel UHD,Intel,256,SDD,Window,1.8,2021,Phongvu,15390000,https://phongvu.vn/may-tinh-xach-tay-laptop-dell-latitude-3520-3520-70251603-i3-1115g4-apollo-s210601910.html?sku=210601910
+244,DELL,Intel i5,4.2,Intel,8,14.0,Intel Iris,Intel,256,SDD,Window,1.5,2021,Phongvu,19990000,https://phongvu.vn/may-tinh-xach-tay-laptop-dell-latitude-3420-l3420i5ssd-i5-1135g7-xam-dam-s210602259.html?sku=210602259
+245,HP,Intel i5,4.2,Intel,8,13.3,Intel Iris,Intel,256,SDD,Window,1.2,2020,Phongvu,20290000,https://phongvu.vn/may-tinh-xach-tay-laptop-hp-probook-430-g8-2h0n8pa-i5-1135g7-bac-s210602726.html?sku=210602726
+246,DELL,Intel i3,4.1,Intel,8,14.0,Intel UHD,Intel,256,SDD,Window,1.5,2020,Phongvu,17190000,https://phongvu.vn/may-tinh-xach-tay-laptop-dell-latitude-3420-l3420i3ssd-i3-1115g4-xam-dam-s210701155.html?sku=210701155
+247,ASUS,Intel i5,4.2,Intel,4,15.6,Intel Iris,Intel,512,SDD,Window,1.8,2021,Phongvu,17690000,https://phongvu.vn/may-tinh-xach-tay-laptop-asus-x515ea-ej1046t-i5-1135g7-bac-s210701316.html?sku=210701316
+248,ACER,Intel i3,4.1,Intel,4,15.6,Intel UHD,Intel,256,SDD,Window,1.7,2021,Phongvu,12990000,https://phongvu.vn/may-tinh-xach-tay-laptop-acer-aspire-3-a315-58-3939-nx-addsv-001-i3-1115g4-den-s210801044.html?sku=210801044
+249,ASUS,AMD Ryzen 9,4.6,AMD,16,14.0,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,1.7,2020,Phongvu,49990000,https://phongvu.vn/may-tinh-xach-tay-laptop-asus-rog-zephyrus-g14-alan-walker-edition-ga401qec-k2064t-amd-ryzen-9-5900hs-xam-s210801106.html?sku=210801106
+250,ASUS,AMD Ryzen 9,4.6,AMD,16,14.0,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,1.7,2021,Phongvu,39990000,https://phongvu.vn/may-tinh-xach-tay-laptop-asus-rog-zephyrus-g14-ga401qe-k2097t-amd-ryzen-9-5900hs-xam-s210801181.html?sku=210801181
+251,ASUS,AMD Ryzen 9,4.6,AMD,16,13.4,NVIDIA GeForce RTX,NVIDIA,512,SDD,Window,1.3,2021,Phongvu,38990000,https://phongvu.vn/may-tinh-xach-tay-laptop-asus-rog-flow-x13-gv301qc-k6052t-amd-ryzen-9-5900hs-den-s210801185.html?sku=210801185
+252,ASUS,AMD Ryzen 7,4.3,AMD,4,15.6,AMD Radeon,AMD,512,SDD,Window,1.8,2020,Phongvu,20490000,https://phongvu.vn/may-tinh-xach-tay-laptop-asus-m513ua-l1240t-amd-ryzen-7-5700u-bac-s210900377.html?sku=210900377
+253,LENOVO,AMD Ryzen 5,4.2,AMD,8,16.0,NVIDIA GeForce GTX,NVIDIA,512,SDD,Window,1.9,2020,Phongvu,23790000,https://phongvu.vn/may-tinh-xach-tay-laptop-lenovo-ideapad-5-pro-16ach6-82l50095vn-amd-ryzen-5-5600h-xam-s210900508.html?sku=210900508
+254,DELL,Intel i3,4.1,Intel,8,14.0,Intel UHD,Intel,256,SDD,Window,1.6,2020,Phongvu,15690000,https://phongvu.vn/may-tinh-xach-tay-laptop-dell-vostro-3400-3400-70253899-i3-1115g4-den-s210901940.html?sku=210901940
+255,DELL,Intel i5,4.2,Intel,8,14.0,Intel Iris,Intel,256,SDD,Window,1.5,2021,Phongvu,18390000,https://phongvu.vn/may-tinh-xach-tay-laptop-dell-vostro-3400-3400-70253900-i5-1135g7-den-s210901941.html?sku=210901941
+256,ASUS,AMD Ryzen 9,4.8,AMD,32,13.4,NVIDIA GeForce RTX,NVIDIA,1000,SDD,Window,1.3,2021,Phongvu,76990000,https://phongvu.vn/may-tinh-xach-tay-laptop-asus-rog-flow-gv301qc-k6029t-amd-ryzen-9-5980hs-den-s210902962.html?sku=210902962
+257,DELL,Intel i5,4.2,Intel,4,15.6,Intel Iris,Intel,512,SDD,Window,1.7,2020,Phongvu,18990000,https://phongvu.vn/may-tinh-xach-tay-laptop-dell-inspiron-15-3511-p112f001bbl-i5-1135g7-den-s210902970.html?sku=210902970
+258,DELL,Intel i5,4.5,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.6,2021,Phongvu,26490000,https://phongvu.vn/may-tinh-xach-tay-laptop-dell-inspiron-5410-5410-n4i5547w-i5-1155g7-bac-s210903005.html?sku=210903005
+259,DELL,Intel i5,4.2,Intel,8,15.6,Intel Iris,Intel,512,SDD,Window,1.7,2021,Phongvu,20390000,https://phongvu.vn/may-tinh-xach-tay-laptop-dell-vostro-15-3400-3400-v3510-i5-1135g7-den-s211000019.html?sku=211000019
+260,LENOVO,Intel Pentium,3.1,Intel,4,11.6,Intel UHD,Intel,256,SDD,Window,1.2,2020,Phongvu,9490000,https://phongvu.vn/may-tinh-xach-tay-laptop-lenovo-ideapad-1-11igl05-81vt006fvn-n5030-xam-s211000648.html?sku=211000648
+261,DELL,Intel i5,4.2,Intel,8,15.6,Intel Iris,Intel,256,SDD,Window,1.8,2020,Phongvu,20390000,https://phongvu.vn/may-tinh-xach-tay-laptop-dell-latitude-3520-3520-70251594-i5-1135g7-den-s211001489.html?sku=211001489
+262,ACER,AMD Ryzen 5,4.0,AMD,8,15.6,NVIDIA GeForce GTX,NVIDIA,256,SDD,Window,2.1,2020,Phongvu,20490000,https://phongvu.vn/may-tinh-xach-tay-laptop-acer-aspire-7-a715-42g-r1sb-nh-qaysv-005-amd-ryzen-5-5500u-den-s211001889.html?sku=211001889
+263,ASUS,Intel i7,4.7,Intel,16,13.3,Intel Iris,Intel,1000,SDD,Window,1.2,2021,Phongvu,40990000,https://phongvu.vn/may-tinh-xach-tay-laptop-asus-ux371ea-hl494ts-i7-1165g7-den-s211002810.html?sku=211002810
+264,MSI,Intel i5,4.2,Intel,8,15.6,Intel UHD,Intel,512,SDD,Window,1.6,2021,Phongvu,17990000,https://phongvu.vn/may-tinh-xach-tay-laptop-msi-modern-15-a10m-667vn-i5-10210u-xam-s211005812.html?sku=211005812
+265,ACER,Intel i5,4.2,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.6,2020,Phongvu,22490000,https://phongvu.vn/may-tinh-xach-tay-laptop-acer-travelmate-p2-tmp214-53-51cu-nx-vpnsv-01s-i5-1135g7-den-s211006748.html?sku=211006748
+266,ACER,Intel i5,4.2,Intel,16,14.0,Intel Iris,Intel,512,SDD,Window,1.6,2020,Phongvu,19490000,https://phongvu.vn/may-tinh-xach-tay-laptop-acer-travelmate-p2-tmp214-53-5571-nx-vpnsv-01v-i5-1135g7-den-s211006749.html?sku=211006749
+267,ACER,AMD Ryzen 5,4.0,AMD,16,14.0,AMD Radeon,AMD,512,SDD,Window,1.1,2021,Phongvu,19990000,https://phongvu.vn/may-tinh-xach-tay-laptop-acer-swift-3-sf314-43-r4x3-nx-ab1sv-004-amd-ryzen-5-5500u-bac-s211012728.html?sku=211012728
+268,DELL,AMD Ryzen 5,4.0,AMD,8,14.0,AMD Radeon,AMD,256,SDD,Window,1.4,2021,Phongvu,19090000,https://phongvu.vn/may-tinh-xach-tay-laptop-dell-inspiron-14-5415-5415-70262929-amd-ryzen-5-5500u-bac-s211100957.html?sku=211100957
+269,DELL,Intel i5,4.5,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.4,2021,Phongvu,23990000,https://phongvu.vn/may-tinh-xach-tay-laptop-dell-inspiron-14-5410-5410-p143g001asl-i5-11320h-bac-s211104712.html?sku=211104712
+270,DELL,AMD Ryzen 5,4.0,AMD,8,15.6,AMD Radeon,AMD,512,SDD,Window,1.7,2020,Phongvu,21790000,https://phongvu.vn/may-tinh-xach-tay-laptop-dell-vostro-5515-5515-k4y9x1-amd-ryzen-5-5500u-xam-s211104864.html?sku=211104864
+271,DELL,AMD Ryzen 5,4.0,AMD,8,14.0,AMD Radeon,AMD,512,SDD,Window,1.4,2020,Phongvu,20890000,https://phongvu.vn/may-tinh-xach-tay-laptop-dell-vostro-5415-v4r55500u015w-amd-ryzen-5-5500u-xam-s211105066.html?sku=211105066
+272,DELL,Intel i5,4.5,Intel,8,14.0,Intel Iris,Intel,512,SDD,Window,1.4,2020,Phongvu,23390000,https://phongvu.vn/may-tinh-xach-tay-laptop-dell-vostro-5410-v4i5214w-i5-11320h-xam-s211105067.html?sku=211105067
