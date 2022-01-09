@@ -3,9 +3,9 @@ Crawl Data &amp; Analyse
 ## 1. Thư mục `Crawler` chứa sourcecode
 ## 2. File `data.csv` là dữ liệu chưa qua xử lý (raw data)
 **Nguồn dữ liệu về laptop thu thập được từ 3 trang web:**
-    + https://fptshop.com.vn/
-    + https://www.dienmayxanh.com/
-    + https://phongvu.vn/
+- https://fptshop.com.vn/
+- https://www.dienmayxanh.com/
+- https://phongvu.vn/
 ## 3. File `laptop_clean.csv`gồm:
 **17 trường dữ liệu:**
 - **id**: ID laptop
